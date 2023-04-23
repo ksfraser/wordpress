@@ -1,6 +1,6 @@
 {
-  "name": "ksfraser/eventloop",
-  "description": "A set of event loop classes.",
+  "name": "ksfraser/wordpress-classes",
+  "description": "A set of classes for working within Wordpress.",
   "type": "library",
   "authors": [
     {
