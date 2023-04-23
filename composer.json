@@ -1,6 +1,6 @@
 {
   "name": "ksfraser/wordpress-classes",
-  "description": "A set of classes for working within Wordpress.",
+  "description": "A set of classes for working with Wordpress - plugins and external REST operations.",
   "type": "library",
   "authors": [
     {
